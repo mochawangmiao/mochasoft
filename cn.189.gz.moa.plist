@@ -25,7 +25,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>cn.189.gz.moa</string>
+				<string>com.mochasoft.telecom.guizhou.mobileportal</string>
 				<key>bundle-version</key>
 				<string>1.0.0</string>
 				<key>subtitle</key>
